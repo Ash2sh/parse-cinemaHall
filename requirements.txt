@@ -1,0 +1,3 @@
+lxml
+fake_useragent
+selenium
